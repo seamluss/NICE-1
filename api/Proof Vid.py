@@ -52,7 +52,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": True, # Redirect to a webpage?
-        "page": "https://drive.google.com/file/d/1fs7XCfhefBfhIk3Fg9xWxr0URUA8YC6_/view?usp=sharing" # Link to the webpage to redirect to 
+        "page": "https://drive.google.com/file/d/1dfkAEVc5phTlE-JQfdVtDH021KjhbVuR/view?usp=sharing" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
